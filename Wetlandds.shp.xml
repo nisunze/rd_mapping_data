@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>CGIS-NUR</origin>
+				<pubdate>2005</pubdate>
+				<title Sync="TRUE">wetlands_88_rw92</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">wetlands_88_rw92</ftname><onlink Sync="TRUE"></onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This layer shows the distribution of wetlands in Rwanda in 2005</abstract>
+			<purpose>distribution, location, monitoring</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">28.876204</westbc>
+				<eastbc Sync="TRUE">30.898605</eastbc>
+				<northbc Sync="TRUE">-1.052574</northbc>
+				<southbc Sync="TRUE">-2.820787</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">375052.363998</leftbc><rightbc Sync="TRUE">599907.720332</rightbc><bottombc Sync="TRUE">9688150.940794</bottombc><topbc Sync="TRUE">9883612.164233</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>wetland, marsh, swamp</themekt>
+				<themekey>wetland, marsh, swamp</themekey>
+			</theme>
+			<place>
+				<placekey>Rwanda</placekey>
+			</place>
+			<temporal>
+				<tempkey>2005</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>The data remains full property of the owners. It can be accessed, reproduced and distributed when asked.</accconst>
+		<useconst>the owner information must be explicitly acknowledged and displayed in the copyright information.The Authors do not assume any responsibilities for improper use of the data.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>GIS Team</cntper>
+					<cntorg>CGIS-NUR</cntorg>
+				</cntperp>
+				<cntemail>Info@cgisnur.org</cntemail>
+				<hours>8:00-17:00</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+		<natvform Sync="TRUE">File Geodatabase Feature Class</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\BROOKS\C$\ska\arcinfo\rwanda\Rwanda.gdb</srcused><date Sync="TRUE">20070821</date><time Sync="TRUE">18225800</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=192.168.102.104; Service=5151; Database=cgis_dc; User=ska; Version=sde.DEFAULT</srcused><date Sync="TRUE">20070823</date><time Sync="TRUE">12101200</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\BROOKS\C$\ska\arcinfo\rwanda\Rwanda_v1.gdb</srcused><date Sync="TRUE">20071012</date><time Sync="TRUE">15324600</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\VIRUNGA\C$\__CGIS\CGIS.gdb</srcused><procdate Sync="TRUE">20090723</procdate><proctime Sync="TRUE">16465900</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><procdate Sync="TRUE">20101225</procdate><proctime Sync="TRUE">20072300</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\MY-PC\D$\Carte commande\BRLIRWA\Dataset.mdb</srcused><procdate Sync="TRUE">20101225</procdate><proctime Sync="TRUE">20092200</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\JEMUS-PC\K$\Carto_Data\Carto_Data.gdb</srcused><procdate Sync="TRUE">20150126</procdate><proctime Sync="TRUE">19065300</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="wetlands_88_rw92">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">0</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="wetlands_88_rw92"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000100</absres>
+						<ordres Sync="TRUE">0.000100</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Transverse Mercator</mapprojn><transmer><sfctrmer Sync="TRUE">0.999900</sfctrmer><longcm Sync="TRUE">30.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">10000000.000000</fnorth></transmer></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_Arc_1960</horizdn>
+				<ellips Sync="TRUE">Clarke_1880_RGS</ellips>
+				<semiaxis Sync="TRUE">6378249.145000</semiaxis>
+				<denflat Sync="TRUE">293.465000</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Arc_1960</geogcsn><projcsn Sync="TRUE">Transverse Mercator</projcsn></cordsysn></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">0.000100</altres></altsys></vertdef></spref>
+	<eainfo>
+		<detailed Name="wetlands_88_rw92">
+			<attr><attrlabl Sync="TRUE">Area</attrlabl><attalias Sync="TRUE">Area</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">15</attwidth></attr><enttyp>
+				<enttypl Sync="TRUE">wetlands_88_rw92</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">ID</attrlabl><attalias Sync="TRUE">ID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">NOMS</attrlabl><attalias Sync="TRUE">NOMS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">24</attwidth></attr><attr><attrlabl Sync="TRUE">OCCUPATION</attrlabl><attalias Sync="TRUE">OCCUPATION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">24</attwidth></attr><attr><attrlabl Sync="TRUE">ETAT</attrlabl><attalias Sync="TRUE">ETAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">24</attwidth></attr><attr><attrlabl Sync="TRUE">OBJECTID</attrlabl><attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape_Length</attrlabl><attalias Sync="TRUE">Shape_Length</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.479</transize>
+					<dssize Sync="TRUE">6.343</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20070716</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>CGIS-NUR</cntorg>
+					<cntper>GIS Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Butare</city>
+					<state>Butare</state>
+					<postal>PO. BOX 212</postal>
+					<country>Rwanda</country>
+				</cntaddr>
+				<cntvoice>+250 530 210</cntvoice>
+				<cntfax>+250 530 870</cntfax>
+				<cntemail>info@cgisnur.org</cntemail>
+				<hours>8:00 - 17:00</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metscs>Public Domain</metscs>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20160511</CreaDate><CreaTime>07375300</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20070716</SyncDate><SyncTime>08342000</SyncTime><ModDate>20070716</ModDate><ModTime>08342000</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20070716" Time="083423">CopyFeatures E:\Data_RW\Wetland\wetlands_88_rw92.shp E:\Data_RW\Rwanda.gdb\Landuse\wetlands_88_rw92 # 0 0 0</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20101225" Time="200724">Project Wetland "D:\Carte commande\BRLIRWA\Dataset.mdb\wet" GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] Arc_1960_To_WGS_1984 PROJCS['Transverse Mercator',GEOGCS['GCS_Arc_1960',DATUM['D_Arc_1960',SPHEROID['Clarke_1880_RGS',6378249.145,293.465]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',10000000.0],PARAMETER['Central_Meridian',30.0],PARAMETER['Scale_Factor',0.9999],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]]</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">wetlands_88_rw92</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">375052.363998</westBL><eastBL Sync="TRUE">599907.720332</eastBL><northBL Sync="TRUE">9883612.164233</northBL><southBL Sync="TRUE">9688150.940794</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">28.876204</westBL><eastBL Sync="TRUE">30.898605</eastBL><northBL Sync="TRUE">-1.052574</northBL><southBL Sync="TRUE">-2.820787</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">6.343</transSize></distorTran><distorFormat><formatName Sync="TRUE">File Geodatabase Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">Transverse Mercator</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="wetlands_88_rw92"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20070716</mdDateSt></metadata>
